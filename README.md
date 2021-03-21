@@ -9,4 +9,4 @@ Solves sudoku using backtracking algorithm and displays the whole procedure.
  3) Choose the question and the speed of visualization using two drop-down menus and then click "Begin"
  4) New Window appears; Click on Begin to start animation
 
-### Q16 takes least time 
+##### Q16 takes least time 
